@@ -1,6 +1,6 @@
 import java.math.BigDecimal;
 
-public class domaciUkol1 {
+public class domaciUkolOpravaChyb {
 
     public static void ukol1() {
         System.out.println("Hello world!");
