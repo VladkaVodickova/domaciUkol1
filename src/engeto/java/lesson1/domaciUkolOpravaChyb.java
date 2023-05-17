@@ -1,3 +1,5 @@
+package engeto.java.lesson1;
+
 import java.math.BigDecimal;
 
 public class domaciUkolOpravaChyb {
